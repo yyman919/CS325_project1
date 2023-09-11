@@ -23,11 +23,11 @@ Before you can run the Web Downloader program, you need to ensure you have the f
   cd web-downloader
 
 3. **Create a Virtual Environment (Optional but Recommended)**
-   # Using Conda
+# Using Conda
   conda create --name web_downloader_env python=3.8
   conda activate web_downloader_env
 
-  # Using Python venv
+# Using Python venv
   python -m venv web_downloader_env
   source web_downloader_env/bin/activate  # On Windows, use `web_downloader_env\Scripts\activate`
 
