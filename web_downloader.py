@@ -1,8 +1,10 @@
+#import libraries
 import urllib.request
 import sys
 import os.path
 from urllib.parse import urlparse
 import argparse
+
 
 # Function to download the content of the URL
 def download(url):
