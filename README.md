@@ -11,7 +11,7 @@ Before you can run the Web Downloader program, you need to ensure you have the f
 
 ## Getting Started
 
-1. **Clone the repository.**
+1. **Clone the repository**
 
 2. **Navigate to the Project Directory**
 
