@@ -25,5 +25,5 @@ Before you can run the Web Downloader program, you need to ensure you have the f
   source web_downloader_env/bin/activate  # On Windows, use `web_downloader_env\Scripts\activate`
    
 5. **Running the Program**
-   python web_downloader.py <URL>
+   python web_downloader.py https://example.com
 
