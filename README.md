@@ -35,5 +35,5 @@ Before you can run the Web Downloader program, you need to ensure you have the f
    pip install -r requirements.txt
    
 6. **Running the Program**
-   python web_downloader.py https://example.com
+   python web_downloader.py <URL>
 
