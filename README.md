@@ -9,7 +9,7 @@ Before you can run the Web Downloader program, you need to ensure you have the f
 - Python 3
 - Git (optional, but useful for cloning the repository)
 
-## Getting Started
+# Getting Started
 
 1. **Clone the repository.**
 
@@ -21,17 +21,17 @@ Before you can run the Web Downloader program, you need to ensure you have the f
 2. **Navigate to the Project Directory**
 
 3. **Create a Virtual Environment (Optional but Recommended)**
-# Using Conda
+## Using Conda
   conda create --name web_downloader_env python=3.8
   conda activate web_downloader_env
 
-# Using Python venv
+##  Using Python venv
   python -m venv web_downloader_env
   source web_downloader_env/bin/activate  # On Windows, use `web_downloader_env\Scripts\activate`
 
 4. **Install Dependencie**
    pip install -r requirements.txt
    
-## Running the Program
+# Running the Program
    python web_downloader.py https://example.com
 
