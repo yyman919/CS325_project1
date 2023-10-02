@@ -16,11 +16,9 @@ Before you can run the Web Downloader program, you need to ensure you have the f
    If you have Git installed, you can clone the repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/yyman919/CS325_project1.git
+   git clone https://github.com/your-username/web-downloader.git
 
 2. **Navigate to the Project Directory**
-
-  cd web-downloader
 
 3. **Create a Virtual Environment (Optional but Recommended)**
 ## Using Conda
@@ -34,11 +32,6 @@ Before you can run the Web Downloader program, you need to ensure you have the f
 4. **Install Dependencie**
    pip install -r requirements.txt
    
-## Running the Program
-   using command line:
-   
-   ```bash
-   py web_downloader.py url
-
-   then will get .txt file
+6. **Running the Program**
+   python web_downloader.py https://example.com
 
